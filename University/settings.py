@@ -97,7 +97,7 @@ DATABASES = {
         "HOST": "schooldb.youseffava.svc",
         "PORT": "5432",
     }
-# }
+}
 # DATABASES = {
 #     'default': {
 #         "ENGINE": "django.db.backends.sqlite3",
